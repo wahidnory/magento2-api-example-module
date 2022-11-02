@@ -1,5 +1,5 @@
 {
-  "name": "something/module-awesome",
+  "name": "wahidnory/magento2-api-example-module",
   "version": "1.0.0",
   "description": "Send anything and everything through the Magento 2 API example.",
   "type": "magento2-module",
