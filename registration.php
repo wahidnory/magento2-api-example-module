@@ -1,8 +1,4 @@
 <?php
-/*
- * Copyright © elgentos. All rights reserved.
- * https://elgentos.nl
- */
 
 use Magento\Framework\Component\ComponentRegistrar;
 
