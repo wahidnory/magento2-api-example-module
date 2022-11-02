@@ -10,6 +10,7 @@
   "license": [
     "MIT"
   ],
+  "homepage": "https://wahid.dev/how-to-return-anything-and-everything-with-magento-2-api",
   "autoload": {
     "files": [
       "registration.php"
